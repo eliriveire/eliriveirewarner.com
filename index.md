@@ -1,23 +1,36 @@
 ---
 title: Eli Riveire Warner 
 ---
-<div>
-    <span>E</span>
-    <span>L</span>
-    <span>I</span>
-    <span>+</span>
-    <span>R</span>
-    <span>I</span>
-    <span>V</span>
-    <span>E</span>
-    <span>I</span>
-    <span>R</span>
-    <span>E</span>
-    <span>+</span>
-    <span>W</span>
-    <span>A</span>
-    <span>R</span>
-    <span>N</span>
-    <span>E</span>
-    <span>R</span>
-</div>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <meta name="author" content="riveire@gmail.com" />
+   <link rel="stylesheet" type="text/css" href="/stylesheet.css">
+</head>
+<body>
+    <div>
+        <span>E</span>
+        <span>L</span>
+        <span>I</span>
+        <span>+</span>
+        <span>R</span>
+        <span>I</span>
+        <span>V</span>
+        <span>E</span>
+        <span>I</span>
+        <span>R</span>
+        <span>E</span>
+        <span>+</span>
+        <span>W</span>
+        <span>A</span>
+        <span>R</span>
+        <span>N</span>
+        <span>E</span>
+        <span>R</span>
+    </div>
+<br>
+<img src="http://m.c.lnkd.licdn.com/media/p/5/005/02e/10d/04ed55c.jpg">
+    
+</body>
+</html>
