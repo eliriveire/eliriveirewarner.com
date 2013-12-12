@@ -1,4 +1,23 @@
 ---
 title: Eli Riveire Warner 
 ---
-
+<div>
+    <span>E</span>
+    <span>L</span>
+    <span>I</span>
+    <span>+</span>
+    <span>R</span>
+    <span>I</span>
+    <span>V</span>
+    <span>E</span>
+    <span>I</span>
+    <span>R</span>
+    <span>E</span>
+    <span>+</span>
+    <span>W</span>
+    <span>A</span>
+    <span>R</span>
+    <span>N</span>
+    <span>E</span>
+    <span>R</span>
+</div>
