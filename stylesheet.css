@@ -1,0 +1,11 @@
+body {
+  background-image: url(/public/images/back_pattern.png);
+  font-family: 'Helvetica', sans-serif;
+  color: #555;
+  position: relative;
+  font-size: 13px;
+  line-height: 1.2em;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
