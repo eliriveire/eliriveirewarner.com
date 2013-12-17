@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Give+You+Glory);
 
 div, body {
-	background-image: url(github.com/eliriveire/SubtlePatterns/back_pattern.png)
+	background-image: url(/public/images/back_pattern.png)
 	margin: 5px;
 	padding: 0px;
 }
