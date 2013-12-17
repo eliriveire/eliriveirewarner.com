@@ -12,10 +12,11 @@ body {
 h1 {
 	font-size: 50px;
 	font-weight: 100;
+	padding: 0px;
 }
 
 h2 { 
-	font-size: 15px
+	font-size: 5px
 	font-weight; 50
 }
 
@@ -28,5 +29,4 @@ ul, li {
 
 italic {
 	font-style: italic;
-	margin: 20px;
 }
