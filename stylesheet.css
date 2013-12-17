@@ -17,7 +17,9 @@ h1 {
 
 h2 { 
 	font-size: 15px;
-	font-weight; 20;
+	font-weight: 20;
+	font-style: italic;
+	font-family: Script;
 }
 
 
