@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Mr+Bedfort);
+@import url(http://fonts.googleapis.com/css?family=The+Girl+Next+Door);
 
 div, body {
 	background-image: url(/public/images/back_pattern.png)
@@ -21,7 +21,7 @@ h1 {
 h2 { 
 	font-size: 16px;
 	font-weight: 50;
-	font-family: 'Mr Bedfort', cursive;
+	font-family: 'The Girl Next Door', cursive;
 }
 
 
