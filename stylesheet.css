@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Give+You+Glory);
+@import url(http://fonts.googleapis.com/css?family=Mr+Bedfort);
 
 div, body {
 	background-image: url(/public/images/back_pattern.png)
@@ -21,7 +21,7 @@ h1 {
 h2 { 
 	font-size: 15px;
 	font-weight: 50;
-	font-family: 'Give You Glory', cursive;
+	font-family: 'Mr Bedfort', cursive;
 }
 
 
