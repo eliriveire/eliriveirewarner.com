@@ -40,6 +40,8 @@ italic {
 
 links {
 	font-family: 'Archivo Narrow';
+	color: #399673;
+	text-decoration: none;
 }
 
 content {
