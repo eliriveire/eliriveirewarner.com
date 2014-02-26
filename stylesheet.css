@@ -34,10 +34,6 @@ ul, li {
 	padding: 0px;
 }
 
-italic {
-	font-style: italic;
-}
-
 a {
 	font-family: 'Archivo Narrow';
 	color: #399673;
@@ -45,4 +41,6 @@ a {
 	font-weight: bold;
 }
 
+img {
+	box-shadow: 10px 10px 5px yellow;
 }
