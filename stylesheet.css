@@ -38,7 +38,7 @@ italic {
 	font-style: italic;
 }
 
-links {
+a {
 	font-family: 'Archivo Narrow';
 	color: #399673;
 	text-decoration: none;
