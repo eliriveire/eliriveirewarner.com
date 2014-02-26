@@ -8,7 +8,7 @@ div, body {
 }
 
 body {
-	font-family: Helvetica;
+	font-family: "Archivo Narrow";
 	text-align: center;
 }
 
@@ -42,8 +42,7 @@ a {
 	font-family: 'Archivo Narrow';
 	color: #399673;
 	text-decoration: none;
+	font-weight: bold;
 }
 
-content {
-	font-family: 'Archivo Narrow';
 }
