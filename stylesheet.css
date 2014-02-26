@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Special+Elite);
 @import url(http://fonts.googleapis.com/css?family=Archivo+Black);
-@import url(http://fonts.googleapis.com/css?family=Archivo+Narrow);
+@import url(http://fonts.googleapis.com/css?family=Roboto);
 
 div, body {
 	margin: 5px;
@@ -8,9 +8,9 @@ div, body {
 }
 
 body {
-	font-family: "Archivo Narrow";
+	font-family: 'Roboto';
 	text-align: center;
-	font-weight: 500;
+	font-size: 14px;
 }
 
 
@@ -36,7 +36,7 @@ ul, li {
 }
 
 a {
-	font-family: 'Archivo Narrow';
+	font-family: 'Roboto';
 	color: #399673;
 	text-decoration: none;
 	font-weight: bold;
