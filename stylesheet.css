@@ -8,7 +8,7 @@ div, body {
 }
 
 body {
-	font-family: 'Roboto';
+	font-family: 'Roboto', Helvetica, Arial, Sans-Serif;
 	text-align: center;
 	font-size: 14px;
 }
